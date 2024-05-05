@@ -14,7 +14,5 @@ printf("does not matter\n");
     printf("do not advertise\n");
 }
 }
-
 return 0;
-
 }
