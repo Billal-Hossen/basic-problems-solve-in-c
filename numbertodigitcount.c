@@ -14,3 +14,8 @@ int main(){
 
 return 0;
 }
+
+/**
+num = 1234
+sum = 1+2+3+4
+*/
